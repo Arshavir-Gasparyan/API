@@ -1,0 +1,24 @@
+#select{
+    text-align: center;
+}
+#select select{
+   margin-bottom: 20px;
+   padding: 10px;
+   font-size: large;
+}
+#text{
+    width: 50%;
+    margin: auto;
+    border: 1px solid grey;
+    padding: 20px;
+    background-color: lightgray;
+}
+div p{
+    background-color: grey;
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+}
+div span{
+    font-size: large;
+}
