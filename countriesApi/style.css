@@ -1,0 +1,28 @@
+body{
+   text-align: center; 
+}
+#description{
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width: 30%;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin: auto;
+    border:2px solid indigo;
+    background-color: darkgoldenrod;
+}
+p{
+   font-size: 24px;
+    margin: 5px;
+    color: indigo;
+}
+#search{
+    margin-bottom: 30px;
+}
+select{
+    height: 40px;
+    font-size: large;
+    /* background-color: darkgoldenrod; */
+}
